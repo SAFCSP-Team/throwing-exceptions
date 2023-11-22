@@ -10,7 +10,8 @@ In this project we will learn how to catching exceptions that are thrown by the 
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|||
+|Throw keyword|[Exception Concept](https://www.digitalocean.com/community/tutorials/exception-handling-in-java)|
+|Throwing exception in java |[Throwing exception Tutorial](https://www.youtube.com/watch?v=kAOYeVYtukY)|
 
 **Problem**
 
