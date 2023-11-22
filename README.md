@@ -14,7 +14,7 @@ In this project we will learn how to catching exceptions that are thrown by the 
 
 **Problem**
 
-
+Use the ArithmeticException in the method using throwing concept.
 
 **Implementation**
 
@@ -25,7 +25,7 @@ we are **throwing the ArithmeticException** otherwise print a message welcome to
 ```Java
 
     public static void main(String args[]){   
-        System.out.println("Try again");    
+        System.out.println(" ");    
   }    
 }    
 ```
