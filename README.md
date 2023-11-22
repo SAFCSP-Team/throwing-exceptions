@@ -24,9 +24,8 @@ we are **throwing the ArithmeticException** otherwise print a message welcome to
 
 ```Java
 
-    public static void main(String args[]){  
-        validate();  
-        System.out.println("rest of the code...");    
+    public static void main(String args[]){   
+        System.out.println("Try again");    
   }    
 }    
 ```
