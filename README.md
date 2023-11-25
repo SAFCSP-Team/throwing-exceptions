@@ -13,6 +13,7 @@ In this project we will learn how to catching exceptions that are thrown by the 
 |Throw keyword|[Exception Concept](https://www.digitalocean.com/community/tutorials/exception-handling-in-java)|
 |Throwing exception in java |[Throwing exception Tutorial](https://www.youtube.com/watch?v=kAOYeVYtukY)|
 ||[Different between Throws & Throw](https://rollbar.com/blog/how-to-use-the-throws-keyword-in-java-and-when-to-use-throw/#:~:text=The%20throws%20keyword%20is%20used,be%20thrown%20from%20a%20method.)|
+||[Checked vs. Unchecked Exceptions ](https://www.youtube.com/watch?v=bCPClyGsVhc)|
 
 **Problem**
 
