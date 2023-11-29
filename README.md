@@ -3,7 +3,7 @@
 
 **Objective**
 
-In this project we will learn how to **catching exceptions** that are **thrown** by the `Java run-time` system.
+In this project we will learn how to **catching exceptions** that are **thrown** by the `Java RunTime` system.
 
 **Concepts**
 
