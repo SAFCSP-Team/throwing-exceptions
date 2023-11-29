@@ -19,9 +19,8 @@ In this project we will learn how to **catching exceptions** that are **thrown**
 Use the `ArithmeticException` in the method using throwing concept.
 
 **Implementation**
-
 - Create the validate method that takes integer value as a parameter.
-- If the age is less than 18, we are **throwing the ArithmeticException** otherwise print a message welcome.
+- If the age is less than 18, we are **throwing the ArithmeticException** otherwise print a message `Welcome!`.
 
 
 ```Java
