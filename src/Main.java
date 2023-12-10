@@ -3,8 +3,7 @@ public class Main {
    int age = 13;
   }
 
-  public static void ageValidator(int age)   
-    {
-
+  public static void ageValidator(int age)   {
+         /* your code here */ 
         }
 }  
